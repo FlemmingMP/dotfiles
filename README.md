@@ -1,2 +1,2 @@
 # dotfiles
-Noting written here yet
+Nothing written here yet
