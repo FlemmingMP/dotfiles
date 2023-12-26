@@ -1,0 +1,5 @@
+#Password Manager
+cask "1password"
+
+#Code and text editor
+cask "visual-studio-code"
