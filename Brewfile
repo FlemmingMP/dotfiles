@@ -4,6 +4,9 @@ cask "1password"
 #Code and text editor
 cask "visual-studio-code"
 
+#Source control
+cask "git"
+
 #Socials
 cask "discord"
 cask "slack"
