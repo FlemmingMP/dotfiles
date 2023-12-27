@@ -1,19 +1,20 @@
-#Password Manager
+# Password Manager
 cask "1password"
 
-#Code and text editor
+# Code and text editor
 cask "visual-studio-code"
 
-#Source control
+# Source control
 cask "git"
+cask "yadm"
 
-#Socials
+# Socials
 cask "discord"
 cask "slack"
 
-#Browsers
+# Browsers
 cask "firefox"
 cask "google-chrome"
 
-#Temp and throttling utility
+# Temp and throttling utility
 cask "hot"
