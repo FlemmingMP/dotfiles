@@ -18,3 +18,9 @@ cask "google-chrome"
 
 # Temp and throttling utility
 cask "hot"
+
+# Input editing
+cask "karabiner-elements"
+
+# Cloud storage
+cask "google-drive"
