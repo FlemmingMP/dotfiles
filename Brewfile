@@ -27,6 +27,8 @@ cask "google-drive"
 
 # Input editing
 cask "karabiner-elements"
+cask "linearmouse"
+cask "logi-options-plus"
 
 # System
 cask "hot"
