@@ -1,12 +1,16 @@
 # Password Manager
 cask "1password"
 
+### Coding utilities
+
 # Code and text editor
 cask "visual-studio-code"
 
 # Source control
-cask "git"
-cask "yadm"
+brew "git"
+brew "yadm"
+
+### General applications
 
 # Socials
 cask "discord"
@@ -16,11 +20,14 @@ cask "slack"
 cask "firefox"
 cask "google-chrome"
 
-# Temp and throttling utility
-cask "hot"
+# Cloud storage
+cask "google-drive"
+
+### Hardware utilities
 
 # Input editing
 cask "karabiner-elements"
 
-# Cloud storage
-cask "google-drive"
+# System
+cask "hot"
+cask "battery"
