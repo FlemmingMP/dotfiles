@@ -10,6 +10,11 @@ cask "visual-studio-code"
 brew "git"
 brew "yadm"
 
+# Javascript
+brew "node"
+brew "pnpm"
+brew "corepack"
+
 ### General applications
 
 # Socials
