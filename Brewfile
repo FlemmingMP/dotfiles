@@ -28,6 +28,10 @@ cask "google-chrome"
 # Cloud storage
 cask "google-drive"
 
+# Video
+cask "obs"
+cask "vlc"
+
 ### Hardware utilities
 
 # Input editing
