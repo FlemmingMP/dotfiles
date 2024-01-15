@@ -14,6 +14,8 @@ brew "yadm"
 brew "node"
 brew "pnpm"
 brew "corepack"
+tap "oven-sh/bun"
+brew "bun"
 
 ### General applications
 
@@ -31,6 +33,9 @@ cask "google-drive"
 # Video
 cask "obs"
 cask "vlc"
+
+# Pictures
+cask "gimp"
 
 ### Hardware utilities
 
