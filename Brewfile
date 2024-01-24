@@ -37,6 +37,9 @@ cask "vlc"
 # Pictures
 cask "gimp"
 
+# Audio
+cask "foobar2000"
+
 ### Hardware utilities
 
 # Input editing
