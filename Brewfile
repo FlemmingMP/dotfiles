@@ -17,6 +17,14 @@ brew "corepack"
 tap "oven-sh/bun"
 brew "bun"
 
+# Other
+brew "go"
+brew "go-task"
+
+# Docker
+brew "docker"
+brew "docker-compose"
+
 ### General applications
 
 # Socials
