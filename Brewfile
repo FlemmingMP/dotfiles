@@ -24,6 +24,7 @@ brew "go-task"
 # Docker
 brew "docker"
 brew "docker-compose"
+cask "postico"
 
 ### General applications
 
