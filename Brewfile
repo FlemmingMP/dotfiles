@@ -24,7 +24,11 @@ brew "go-task"
 # Docker
 brew "docker"
 brew "docker-compose"
+
+### SQL
+# Postgres
 cask "postico"
+cask "pgadmin4"
 
 ### General applications
 
