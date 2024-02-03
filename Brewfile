@@ -20,12 +20,13 @@ brew "bun"
 # Other
 brew "go"
 brew "go-task"
+brew "python3"
 
 # Docker
 brew "docker"
 brew "docker-compose"
 
-### SQL
+## SQL
 # Postgres
 cask "postico"
 cask "pgadmin4"
@@ -46,6 +47,7 @@ cask "google-drive"
 # Video
 cask "obs"
 cask "vlc"
+brew "ffmpeg"
 
 # Pictures
 cask "gimp"
