@@ -31,6 +31,9 @@ brew "docker-compose"
 cask "postico"
 cask "pgadmin4"
 
+# MySQL
+cask "mysqlworkbench"
+
 ### General applications
 
 # Socials
