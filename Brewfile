@@ -26,7 +26,12 @@ brew "python3"
 brew "docker"
 brew "docker-compose"
 
+# Best language
+brew "openjdk"
+
 ## SQL
+cask "dbeaver-community"
+
 # Postgres
 cask "postico"
 cask "pgadmin4"
