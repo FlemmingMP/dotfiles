@@ -5,6 +5,7 @@ cask "1password"
 
 # Code and text editor
 cask "visual-studio-code"
+cask "zed"
 
 # Source control
 brew "git"
@@ -39,6 +40,9 @@ cask "pgadmin4"
 # MySQL
 cask "mysqlworkbench"
 
+# HTTP
+cask "postman"
+
 ### General applications
 
 # Socials
@@ -62,6 +66,9 @@ cask "gimp"
 
 # Audio
 cask "foobar2000"
+
+# Email
+cask "microsoft-outlook"
 
 ### Hardware utilities
 
