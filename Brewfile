@@ -6,6 +6,7 @@ cask "1password"
 # Code and text editor
 cask "visual-studio-code"
 cask "zed"
+cask "intellij-idea-ce"
 
 # Source control
 brew "git"
@@ -22,6 +23,7 @@ brew "bun"
 brew "go"
 brew "go-task"
 brew "python3"
+brew "azure-cli"
 
 # Docker
 brew "docker"
@@ -29,6 +31,10 @@ brew "docker-compose"
 
 # Best language
 brew "openjdk"
+brew "maven"
+
+# C-sharp
+cask "dotnet-sdk"
 
 ## SQL
 cask "dbeaver-community"
