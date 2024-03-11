@@ -8,6 +8,10 @@ cask "visual-studio-code"
 cask "zed"
 cask "intellij-idea-ce"
 
+# Terminal
+cask "iterm2"
+brew "fish"
+
 # Source control
 brew "git"
 brew "yadm"
@@ -15,6 +19,7 @@ brew "yadm"
 # Javascript
 brew "node"
 brew "pnpm"
+brew "yarn"
 brew "corepack"
 tap "oven-sh/bun"
 brew "bun"
