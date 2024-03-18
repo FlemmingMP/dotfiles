@@ -7,6 +7,7 @@ cask "1password"
 cask "visual-studio-code"
 cask "zed"
 cask "intellij-idea-ce"
+cask "coteditor"
 
 # Terminal
 cask "iterm2"
