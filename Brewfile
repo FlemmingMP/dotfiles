@@ -21,7 +21,6 @@ brew "yadm"
 brew "node"
 brew "pnpm"
 brew "yarn"
-brew "corepack"
 tap "oven-sh/bun"
 brew "bun"
 
