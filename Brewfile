@@ -42,6 +42,10 @@ brew "maven"
 # C-sharp
 cask "dotnet-sdk"
 
+# C/C++
+brew "gcc"
+brew "sdl12-compat"
+
 ## SQL
 cask "dbeaver-community"
 
@@ -81,6 +85,9 @@ cask "foobar2000"
 
 # Email
 cask "microsoft-outlook"
+
+# Math
+cask "geogebra"
 
 ### Hardware utilities
 
