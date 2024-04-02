@@ -78,6 +78,8 @@ brew "ffmpeg"
 
 # Pictures
 cask "gimp"
+cask "phoenix-slides"
+cask "qview"
 
 # Audio
 cask "foobar2000"
@@ -87,6 +89,11 @@ cask "microsoft-outlook"
 
 # Math
 cask "geogebra"
+
+### OS utilities
+
+# Menu bar
+cask "hiddenbar"
 
 ### Hardware utilities
 
@@ -98,3 +105,5 @@ cask "logi-options-plus"
 # System
 cask "hot"
 cask "battery"
+cask "stats"
+cask "cinebench"
