@@ -8,6 +8,7 @@ cask "visual-studio-code"
 cask "zed"
 cask "intellij-idea-ce"
 cask "coteditor"
+brew "nano"
 
 # Terminal
 cask "iterm2"
@@ -29,6 +30,8 @@ brew "go"
 brew "go-task"
 brew "python3"
 brew "azure-cli"
+brew "ruby"
+brew "pkl"
 
 # Docker
 brew "docker"
@@ -57,6 +60,7 @@ cask "mysqlworkbench"
 
 # HTTP
 cask "postman"
+cask "soapui"
 
 ### General applications
 
@@ -91,6 +95,12 @@ cask "microsoft-outlook"
 cask "geogebra"
 
 ### OS utilities
+
+# Search
+cask "raycast"
+
+# Window manager
+cask "rectangle"
 
 # Menu bar
 cask "hiddenbar"
