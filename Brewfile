@@ -26,7 +26,6 @@ tap "oven-sh/bun"
 brew "bun"
 
 # Other
-brew "go"
 brew "go-task"
 brew "python3"
 brew "azure-cli"
