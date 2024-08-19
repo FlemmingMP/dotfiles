@@ -10,6 +10,9 @@ cask "intellij-idea-ce"
 cask "coteditor"
 brew "nano"
 
+# CLI
+brew "tree"
+
 # Terminal
 cask "iterm2"
 brew "fish"
@@ -24,6 +27,7 @@ brew "pnpm"
 brew "yarn"
 tap "oven-sh/bun"
 brew "bun"
+brew "deno"
 
 # Other
 brew "go-task"
@@ -49,6 +53,7 @@ brew "sdl12-compat"
 
 ## SQL
 cask "dbeaver-community"
+brew "redis"
 
 # Postgres
 cask "postico"
