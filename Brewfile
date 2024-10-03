@@ -9,9 +9,11 @@ cask "zed"
 cask "intellij-idea-ce"
 cask "coteditor"
 brew "nano"
+brew "neovim"
 
 # CLI
 brew "tree"
+brew "k9s"
 
 # Terminal
 cask "iterm2"
@@ -20,6 +22,7 @@ brew "fish"
 # Source control
 brew "git"
 brew "yadm"
+brew "lazygit"
 
 # Javascript
 brew "node"
@@ -29,16 +32,23 @@ tap "oven-sh/bun"
 brew "bun"
 brew "deno"
 
-# Other
-brew "go-task"
+# Programming languages
 brew "python3"
-brew "azure-cli"
 brew "ruby"
-brew "pkl"
+brew "lua"
 
-# Docker
+# Programming tools
+brew "go-task"
+brew "azure-cli"
+brew "pkl"
+brew "golangci-lint"
+brew "luarocks"
+
+# Containerization
 brew "docker"
 brew "docker-compose"
+brew "podman"
+brew "podman-compose"
 
 # Best language
 brew "openjdk"
