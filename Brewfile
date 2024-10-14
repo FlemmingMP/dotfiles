@@ -5,7 +5,6 @@ cask "1password"
 
 # Code and text editor
 cask "visual-studio-code"
-cask "zed"
 cask "intellij-idea-ce"
 cask "coteditor"
 brew "nano"
@@ -74,7 +73,6 @@ cask "mysqlworkbench"
 
 # HTTP
 cask "postman"
-cask "soapui"
 
 ### General applications
 
