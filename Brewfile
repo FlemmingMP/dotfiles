@@ -120,12 +120,13 @@ cask "hiddenbar"
 ### Hardware utilities
 
 # Input editing
-cask "karabiner-elements"
-cask "linearmouse"
-cask "logi-options-plus"
+cask "karabiner-elements"              # Keyboard binds
+cask "linearmouse"                     # Per mouse settings
+cask "logi-options-plus"               # Logi mouse driver
 
 # System
 cask "hot"
 cask "battery"
 cask "stats"
 cask "cinebench"
+cask "background-music"                # Per app volume
