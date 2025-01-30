@@ -1,5 +1,6 @@
 # Password Manager
 cask "1password"
+cask "1password-cli"
 
 ### Coding utilities
 
@@ -44,7 +45,7 @@ brew "golangci-lint"
 brew "luarocks"
 
 # Containerization
-brew "docker"
+cask "docker"
 brew "docker-compose"
 brew "podman"
 brew "podman-compose"
